@@ -9,7 +9,7 @@ function SelectedProject(props) {
 
     return (
         <div className='project'>
-            <img alt="" src={place.image} width="600" height="400" />
+            <img alt="" src={place.image} width="auto" height="400" />
             <h3>{place.title}</h3>
             <p>{place.desc}</p>
             <Link to='/'>Back to Home</Link>
