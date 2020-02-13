@@ -1,0 +1,15 @@
+.Project {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 20px;
+    border: 20px;
+}         
+
+.Project > div {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    padding: 20px;
+    border: 20px;
+}   
