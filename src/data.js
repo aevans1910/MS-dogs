@@ -12,7 +12,7 @@ const data = [
     },
     {
       title: 'Sugar',
-      image: '/images/sugar.png',
+      image: '/images/Sugar.png',
       desc: `Sugar is the sweetest little dog at Make School. Even if she sometimes
       rocks the most fashionable of outfits, she never lets it get to her head.
       She is always accepting and ready for your love! She will go around the 

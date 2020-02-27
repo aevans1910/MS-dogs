@@ -11,7 +11,7 @@ function SelectedProject(props) {
     return (
         <div className='Selected-Project'>
             <div className="image">
-                <img alt="" src={place.image} width="auto" height="400" /> 
+                <img alt="" src={`${process.env.PUBLIC_URL}${place.image}`} width="auto" height="400" /> 
             </div>
             <h3>{place.title}</h3>
             <p>{place.desc}</p>
