@@ -1,6 +1,7 @@
 import React from 'react'
 import {Link, useParams} from 'react-router-dom'
 import data from './data'
+import './SelectedProject.css'
 
 
 function SelectedProject(props) {
@@ -8,8 +9,10 @@ function SelectedProject(props) {
     const place = data[index]
 
     return (
-        <div className='project'>
-            <img alt="" src={place.image} width="auto" height="400" />
+        <div className='Selected-Project'>
+            <div className="image">
+                <img alt="" src={place.image} width="auto" height="400" /> 
+            </div>
             <h3>{place.title}</h3>
             <p>{place.desc}</p>
             <Link to='/'>Back to Home</Link>

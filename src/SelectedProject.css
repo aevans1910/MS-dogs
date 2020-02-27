@@ -1,0 +1,19 @@
+        
+.Selected-Project {
+    margin: 0 auto;
+    display: flex;
+    width: 70%;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}    
+
+.Selected-Project > image {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    width: auto;
+    height: 400px;
+
+}
