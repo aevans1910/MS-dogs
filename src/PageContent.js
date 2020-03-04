@@ -6,7 +6,6 @@ import './PageContent.css'
 
 function PageContent() {
     return (
-        <div className="PageHeader">
             <div className="project">
                 {
                 data.map((place, i) => {
@@ -22,7 +21,6 @@ function PageContent() {
                 })
                 }
             </div>       
-        </div>
     )
 }
 
