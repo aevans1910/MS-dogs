@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/MS-dogs/static/css/main.4eb2db62.chunk.css",
-    "main.js": "/MS-dogs/static/js/main.4b1bcb76.chunk.js",
-    "main.js.map": "/MS-dogs/static/js/main.4b1bcb76.chunk.js.map",
+    "main.js": "/MS-dogs/static/js/main.0bea0242.chunk.js",
+    "main.js.map": "/MS-dogs/static/js/main.0bea0242.chunk.js.map",
     "runtime-main.js": "/MS-dogs/static/js/runtime-main.579e2014.js",
     "runtime-main.js.map": "/MS-dogs/static/js/runtime-main.579e2014.js.map",
     "static/js/2.d423d207.chunk.js": "/MS-dogs/static/js/2.d423d207.chunk.js",
     "static/js/2.d423d207.chunk.js.map": "/MS-dogs/static/js/2.d423d207.chunk.js.map",
     "index.html": "/MS-dogs/index.html",
-    "precache-manifest.ec0d95557488c786eceb36130820a724.js": "/MS-dogs/precache-manifest.ec0d95557488c786eceb36130820a724.js",
+    "precache-manifest.96ea7c0038bb5cda3e46797f306c42c1.js": "/MS-dogs/precache-manifest.96ea7c0038bb5cda3e46797f306c42c1.js",
     "service-worker.js": "/MS-dogs/service-worker.js",
     "static/css/main.4eb2db62.chunk.css.map": "/MS-dogs/static/css/main.4eb2db62.chunk.css.map",
     "static/js/2.d423d207.chunk.js.LICENSE.txt": "/MS-dogs/static/js/2.d423d207.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.579e2014.js",
     "static/js/2.d423d207.chunk.js",
     "static/css/main.4eb2db62.chunk.css",
-    "static/js/main.4b1bcb76.chunk.js"
+    "static/js/main.0bea0242.chunk.js"
   ]
 }

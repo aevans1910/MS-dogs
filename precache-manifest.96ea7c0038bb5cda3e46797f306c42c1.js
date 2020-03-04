@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1f35a7f5b300144533373b9414b816d0",
+    "revision": "ea2cdce3afbb3940ba94b58eab6d2ddc",
     "url": "/MS-dogs/index.html"
   },
   {
-    "revision": "cf5277e9468335a56856",
+    "revision": "753f281c0f69491f1b21",
     "url": "/MS-dogs/static/css/main.4eb2db62.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MS-dogs/static/js/2.d423d207.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cf5277e9468335a56856",
-    "url": "/MS-dogs/static/js/main.4b1bcb76.chunk.js"
+    "revision": "753f281c0f69491f1b21",
+    "url": "/MS-dogs/static/js/main.0bea0242.chunk.js"
   },
   {
     "revision": "d9c284929f3825d638f7",
