@@ -15,6 +15,7 @@ function getFeatureIcons(features) {
         low_energy: <FontAwesomeIcon key='low_energy' icon={faBatteryEmpty} />,
         food_inclined: <FontAwesomeIcon key='food_inclined' icon={faBone} />
     }
+    console.log(icons)
 
     return features.map(feature => icons[feature])
 }

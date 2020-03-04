@@ -16,7 +16,7 @@ function PageContent() {
                             title={place.title}
                             image={`${process.env.PUBLIC_URL}${place.image}`}
                             link={`${i}`}
-                            features={features}
+                            features={place.features}
                         />
                     )
                 })
