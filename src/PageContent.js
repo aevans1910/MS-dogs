@@ -1,6 +1,7 @@
 import data from './data'
 import React from 'react'
 import Project from './Project'
+
 import './PageContent.css'
 
 function PageContent() {
@@ -13,8 +14,9 @@ function PageContent() {
                         <Project
                             key={`${i}-${place.image}`}
                             title={place.title}
-                            image={place.image}
+                            image={`${process.env.PUBLIC_URL}${place.image}`}
                             link={`${i}`}
+                            features={features}
                         />
                     )
                 })
