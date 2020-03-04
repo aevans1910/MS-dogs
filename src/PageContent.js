@@ -13,7 +13,7 @@ function PageContent() {
                         <Project
                             key={`${i}-${place.image}`}
                             title={place.title}
-                            image={`${process.env.PUBLIC_URL}${place.image}`}
+                            image={`${place.image}`}
                             link={`${i}`}
                             features={place.features}
                         />

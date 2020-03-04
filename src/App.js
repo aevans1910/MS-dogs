@@ -5,7 +5,7 @@ import PageFooter from './PageFooter';
 import PageContent from './PageContent'
 import SelectedProject from './SelectedProject'
 import data from './data'
-import { BrowserRouter as Router, Route } from 'react-router-dom'
+import { HashRouter as Router, Route } from 'react-router-dom'
 
 function App() {
   return (
